@@ -1,0 +1,14 @@
+C:\Users\olm\source\repos\Hierarchy\Hierarchy\bin\Debug\Hierarchy.exe.config
+C:\Users\olm\source\repos\Hierarchy\Hierarchy\bin\Debug\Hierarchy.exe
+C:\Users\olm\source\repos\Hierarchy\Hierarchy\bin\Debug\Hierarchy.pdb
+C:\Users\olm\source\repos\Hierarchy\Hierarchy\obj\Debug\Hierarchy.csprojAssemblyReference.cache
+C:\Users\olm\source\repos\Hierarchy\Hierarchy\obj\Debug\Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\olm\source\repos\Hierarchy\Hierarchy\obj\Debug\Hierarchy.exe
+C:\Users\olm\source\repos\Hierarchy\Hierarchy\obj\Debug\Hierarchy.pdb
+C:\C#\Hierarchy\Hierarchy\bin\Debug\Hierarchy.exe.config
+C:\C#\Hierarchy\Hierarchy\bin\Debug\Hierarchy.exe
+C:\C#\Hierarchy\Hierarchy\bin\Debug\Hierarchy.pdb
+C:\C#\Hierarchy\Hierarchy\obj\Debug\Hierarchy.csprojAssemblyReference.cache
+C:\C#\Hierarchy\Hierarchy\obj\Debug\Hierarchy.csproj.CoreCompileInputs.cache
+C:\C#\Hierarchy\Hierarchy\obj\Debug\Hierarchy.exe
+C:\C#\Hierarchy\Hierarchy\obj\Debug\Hierarchy.pdb
